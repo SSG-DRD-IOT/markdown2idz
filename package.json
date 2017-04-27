@@ -4,7 +4,7 @@
   "description": "Converts markdown to HTML for the Intel Developer Zone",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/index.js"
+    "test": "./node_modules/mocha/bin/mocha test/index.js"
   },
   "repository": {
     "type": "git",
@@ -29,7 +29,8 @@
     "markdown-it-anchor": "^4.0.0"
   },
   "devDependencies": {
-    "markdown-it-testgen": "^0.1.4"
+    "markdown-it-testgen": "^0.1.4",
+    "mocha": "^3.3.0"
   },
   "directories": {
     "test": "test"
