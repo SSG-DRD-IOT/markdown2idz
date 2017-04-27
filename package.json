@@ -1,0 +1,37 @@
+{
+  "name": "markdown2idz",
+  "version": "1.0.0",
+  "description": "Converts markdown to HTML for the Intel Developer Zone",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SSG-DRD-IOT/markdown2idz.git"
+  },
+  "keywords": [
+    "markdown",
+    "html",
+    "intel"
+  ],
+  "author": "Daniel Holmlund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SSG-DRD-IOT/markdown2idz/issues"
+  },
+  "homepage": "https://github.com/SSG-DRD-IOT/markdown2idz#readme",
+  "dependencies": {
+    "breakdance": "^1.0.0",
+    "fetch": "^1.1.0",
+    "highlight.js": "^9.11.0",
+    "markdown-it": "^8.3.1",
+    "markdown-it-anchor": "^4.0.0"
+  },
+  "devDependencies": {
+    "markdown-it-testgen": "^0.1.4"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

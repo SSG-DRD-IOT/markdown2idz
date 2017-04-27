@@ -1,0 +1,7 @@
+Testing images
+
+.
+![](./images/temperature-sensors-arduino.jpg)
+.
+<p><img src="./images/temperature-sensors-arduino.jpg" alt=""></p>
+.

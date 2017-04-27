@@ -1,0 +1,8 @@
+bower_components
+node_modules
+
+test2.js
+
+images/
+
+*.html

@@ -1,0 +1,6 @@
+Testing Paragraphs
+.
+By the end of this module, you should be able to:
+.
+<p>By the end of this module, you should be able to:</p>
+.

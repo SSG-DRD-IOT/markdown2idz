@@ -1,0 +1,13 @@
+Testing the lists
+
+.
+1. Install the Grove Base Shield onto the Arduino* 101 Arduino expansion board.
+2. Connect **Grove Temperature Sensor** to analog pin **A0** of the Grove Base Shield.
+3. Connect **Grove LCD** display to one of the **I2C** pins.
+.
+<ol>
+<li>Install the Grove Base Shield onto the Arduino* 101 Arduino expansion board.</li>
+<li>Connect <strong>Grove Temperature Sensor</strong> to analog pin <strong>A0</strong> of the Grove Base Shield.</li>
+<li>Connect <strong>Grove LCD</strong> display to one of the <strong>I2C</strong> pins.</li>
+</ol>
+.

@@ -1,0 +1,11 @@
+Testing the lists
+
+.
+* Create a NodeJS service that sends temperature data to the gateway via MQTT
+* Create a NodeJS service that implements a Restful HTTP API to control the LCD screen
+.
+<ul>
+<li>Create a NodeJS service that sends temperature data to the gateway via MQTT</li>
+<li>Create a NodeJS service that implements a Restful HTTP API to control the LCD screen</li>
+</ul>
+.
